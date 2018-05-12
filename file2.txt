@@ -1,0 +1,1 @@
+Purposefully create and resolve a merge conflict.
