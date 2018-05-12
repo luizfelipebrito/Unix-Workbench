@@ -1,1 +1,1 @@
-This is a small example of how to use Git branching
+This is a small example of how to use Git branching. Now I know the basics of using Git.
