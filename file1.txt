@@ -1,3 +1,0 @@
-Start a new branch.
-Switch to that branch and add commits to it. Switch to an older branch and then merge the new branch into your current branch.
-Purposefully create and resolve a merge conflict.
